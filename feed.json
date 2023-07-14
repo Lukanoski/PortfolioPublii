@@ -24,19 +24,6 @@
             "date_modified": "2023-07-14T17:11:32+02:00"
         },
         {
-            "id": "https://lukanoski.xyz/landing.html",
-            "url": "https://lukanoski.xyz/landing.html",
-            "title": "Landing",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://lukanoski.xyz/media/posts/15/gallery/header-2.png\" data-size=\"1621x571\"><img loading=\"lazy\" src=\"https://lukanoski.xyz/media/posts/15/gallery/header-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"271\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Ognen Lukanoski"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-14T16:52:01+02:00",
-            "date_modified": "2023-07-14T20:03:17+02:00"
-        },
-        {
             "id": "https://lukanoski.xyz/the-scilence.html",
             "url": "https://lukanoski.xyz/the-scilence.html",
             "title": "The scilence",

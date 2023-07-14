@@ -3,7 +3,7 @@
     <title>portfolio</title>
     <link href="https://lukanoski.xyz/feed.xml" rel="self" />
     <link href="https://lukanoski.xyz" />
-    <updated>2023-07-14T20:03:17+02:00</updated>
+    <updated>2023-07-14T18:25:03+02:00</updated>
     <author>
         <name>Ognen Lukanoski</name>
     </author>
@@ -28,24 +28,6 @@
                 <p>email: <a href="mailto:lukanoskiognen@gmail.com">lukanoskiognen@gmail.com</a></p>
 <p>linkedin: <a href="http://www.linkedin.com/in/ognen-lukanoski-a7299625">www.linkedin.com/in/ognen-lukanoski-a7299625</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Landing</title>
-        <author>
-            <name>Ognen Lukanoski</name>
-        </author>
-        <link href="https://lukanoski.xyz/landing.html"/>
-        <id>https://lukanoski.xyz/landing.html</id>
-
-        <updated>2023-07-14T20:03:17+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/15/gallery/header-2.png" data-size="1621x571"><img loading="lazy" src="https://lukanoski.xyz/media/posts/15/gallery/header-2-thumbnail.png" alt="" width="768" height="271"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
