@@ -3,7 +3,7 @@
     <title>Ognen Lukanoski</title>
     <link href="https://lukanoski.xyz/feed.xml" rel="self" />
     <link href="https://lukanoski.xyz" />
-    <updated>2023-07-14T21:30:31+02:00</updated>
+    <updated>2023-07-14T23:46:32+02:00</updated>
     <author>
         <name>Ognen Lukanoski</name>
     </author>
@@ -40,7 +40,7 @@
         <id>https://lukanoski.xyz/the-scilence.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/13/sielenceFeature.png" medium="image" />
 
-        <updated>2023-07-14T21:30:31+02:00</updated>
+        <updated>2023-07-14T23:27:37+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -69,11 +69,13 @@
         </author>
         <link href="https://lukanoski.xyz/reels.html"/>
         <id>https://lukanoski.xyz/reels.html</id>
+        <media:content url="https://lukanoski.xyz/media/posts/12/pngkit_movie-slate-png_3756478.png" medium="image" />
 
-        <updated>2023-07-14T14:04:03+02:00</updated>
+        <updated>2023-07-14T23:46:32+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://lukanoski.xyz/media/posts/12/pngkit_movie-slate-png_3756478.png" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div>
             ]]>
         </content>
@@ -87,7 +89,7 @@
         <id>https://lukanoski.xyz/other-3.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/11/otherFeature.png" medium="image" />
 
-        <updated>2023-07-14T18:25:03+02:00</updated>
+        <updated>2023-07-14T23:27:52+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -119,7 +121,7 @@
         <id>https://lukanoski.xyz/character-3.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/10/character_feature.png" medium="image" />
 
-        <updated>2023-07-14T18:24:35+02:00</updated>
+        <updated>2023-07-14T23:27:42+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -150,7 +152,7 @@
         <id>https://lukanoski.xyz/md-3.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/9/MD_feature.png" medium="image" />
 
-        <updated>2023-07-14T18:22:09+02:00</updated>
+        <updated>2023-07-14T23:27:47+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -181,7 +183,7 @@
         <id>https://lukanoski.xyz/pistols-2.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/8/flintLockPistol_Feature.png" medium="image" />
 
-        <updated>2023-07-14T18:03:08+02:00</updated>
+        <updated>2023-07-14T23:46:04+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
