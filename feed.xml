@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>portfolio</title>
+    <title>Ognen Lukanoski Portfolio</title>
     <link href="https://lukanoski.xyz/feed.xml" rel="self" />
     <link href="https://lukanoski.xyz" />
-    <updated>2023-07-14T18:25:03+02:00</updated>
+    <updated>2023-07-14T21:30:31+02:00</updated>
     <author>
         <name>Ognen Lukanoski</name>
     </author>
@@ -32,7 +32,7 @@
         </content>
     </entry>
     <entry>
-        <title>The scilence</title>
+        <title>The Silence</title>
         <author>
             <name>Ognen Lukanoski</name>
         </author>
@@ -40,24 +40,24 @@
         <id>https://lukanoski.xyz/the-scilence.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/13/sielenceFeature.png" medium="image" />
 
-        <updated>2023-07-14T18:03:17+02:00</updated>
+        <updated>2023-07-14T21:30:31+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://lukanoski.xyz/media/posts/13/sielenceFeature.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0001.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0001-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0020.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0020-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0030.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0030-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0036.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0036-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0050.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0050-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0059.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0059-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0001.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0001-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0011.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0011-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0021.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0021-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0031.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0031-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0051.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0051-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0060.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-sss-0060-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0001.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0001-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0020.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0020-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0030.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0030-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0036.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0036-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0050.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0050-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0059.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.xyz/media/posts/13/gallery/ognen-lukanoski-clay-0059-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 </div></div>
             ]]>
         </content>
