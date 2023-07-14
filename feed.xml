@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portfolio</title>
+    <link href="https://lukanoski.github.io/PortfolioPublii/feed.xml" rel="self" />
+    <link href="https://lukanoski.github.io/PortfolioPublii" />
+    <updated>2023-07-14T14:04:03+02:00</updated>
+    <author>
+        <name>Ognen Lukanoski</name>
+    </author>
+    <id>https://lukanoski.github.io/PortfolioPublii</id>
+
+    <entry>
+        <title>The scilence</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.github.io/PortfolioPublii/the-scilence.html"/>
+        <id>https://lukanoski.github.io/PortfolioPublii/the-scilence.html</id>
+        <media:content url="https://lukanoski.github.io/PortfolioPublii/media/posts/13/ognen-lukanoski-sss-0060.jpg" medium="image" />
+
+        <updated>2023-07-14T13:58:38+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/ognen-lukanoski-sss-0060.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0001.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0001-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0020.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0020-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0030.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0030-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0036.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0036-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0050.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0050-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0059.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-clay-0059-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0001.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0001-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0011.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0011-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0021.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0021-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0031.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0031-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0051.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0051-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0060.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/13/gallery/ognen-lukanoski-sss-0060-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Reels</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.github.io/PortfolioPublii/reels.html"/>
+        <id>https://lukanoski.github.io/PortfolioPublii/reels.html</id>
+
+        <updated>2023-07-14T14:04:03+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>other</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.github.io/PortfolioPublii/other-3.html"/>
+        <id>https://lukanoski.github.io/PortfolioPublii/other-3.html</id>
+        <media:content url="https://lukanoski.github.io/PortfolioPublii/media/posts/11/other_0009.jpg" medium="image" />
+
+        <updated>2023-07-14T12:38:28+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/other_0009.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0001.jpg" data-size="3508x2480"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0001-thumbnail.jpg" alt="" width="768" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0002.jpg" data-size="3508x2480"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0002-thumbnail.jpg" alt="" width="768" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0003.jpg" data-size="2048x2048"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0003-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0004.jpg" data-size="691x935"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0004-thumbnail.jpg" alt="" width="691" height="935"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0005.jpg" data-size="617x747"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0005-thumbnail.jpg" alt="" width="617" height="747"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0006.jpg" data-size="764x1140"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0006-thumbnail.jpg" alt="" width="764" height="1140"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0007.jpg" data-size="764x1140"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0007-thumbnail.jpg" alt="" width="764" height="1140"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0008.jpg" data-size="2880x1620"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0008-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0009.jpg" data-size="606x679"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0009-thumbnail.jpg" alt="" width="606" height="679"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0010.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0010-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0011.jpg" data-size="640x360"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0011-thumbnail.jpg" alt="" width="640" height="360"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0012.jpg" data-size="640x360"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0012-thumbnail.jpg" alt="" width="640" height="360"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0013.jpg" data-size="640x360"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/11/gallery/other_0013-thumbnail.jpg" alt="" width="640" height="360"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>character</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.github.io/PortfolioPublii/character-3.html"/>
+        <id>https://lukanoski.github.io/PortfolioPublii/character-3.html</id>
+        <media:content url="https://lukanoski.github.io/PortfolioPublii/media/posts/10/character_0011.jpg" medium="image" />
+
+        <updated>2023-07-14T12:43:55+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/character_0011.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0001.png" data-size="1801x1013"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0001-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0002.png" data-size="1624x913"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0002-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0003.png" data-size="1629x913"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0003-thumbnail.png" alt="" width="768" height="430"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0004.png" data-size="1623x910"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0004-thumbnail.png" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0005.png" data-size="1620x912"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0005-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0006.png" data-size="1624x911"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0006-thumbnail.png" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0007.png" data-size="1488x1115"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0007-thumbnail.png" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0008.png" data-size="1485x1115"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0008-thumbnail.png" alt="" width="768" height="577"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0009.png" data-size="1482x1107"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0009-thumbnail.png" alt="" width="768" height="574"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0010.jpg" data-size="1920x1080"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0010-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0011.jpg" data-size="729x656"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0011-thumbnail.jpg" alt="" width="729" height="656"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0012.jpg" data-size="1459x1094"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/10/gallery/character_0012-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>md</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.github.io/PortfolioPublii/md-3.html"/>
+        <id>https://lukanoski.github.io/PortfolioPublii/md-3.html</id>
+        <media:content url="https://lukanoski.github.io/PortfolioPublii/media/posts/9/MD_Preview4.png" medium="image" />
+
+        <updated>2023-06-17T21:12:42+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/MD_Preview4.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview1.png" data-size="1279x1279"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview1-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview2.png" data-size="1279x1279"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview2-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview3.png" data-size="1279x1279"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview3-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview4.png" data-size="1279x1279"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/MD_Preview4-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0001.jpg" data-size="1643x902"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0001-thumbnail.jpg" alt="" width="768" height="422"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0002.jpg" data-size="1348x902"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0002-thumbnail.jpg" alt="" width="768" height="514"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0003.jpg" data-size="1345x897"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0004.jpg" data-size="1342x898"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0004-thumbnail.jpg" alt="" width="768" height="514"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0005.jpg" data-size="1718x913"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0005-thumbnail.jpg" alt="" width="768" height="408"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0006.jpg" data-size="1344x898"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0006-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0007.jpg" data-size="1341x898"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0007-thumbnail.jpg" alt="" width="768" height="514"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0008.jpg" data-size="1347x895"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/9/gallery/mdRetopo_0008-thumbnail.jpg" alt="" width="768" height="510"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>pistols</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.github.io/PortfolioPublii/pistols-2.html"/>
+        <id>https://lukanoski.github.io/PortfolioPublii/pistols-2.html</id>
+        <media:content url="https://lukanoski.github.io/PortfolioPublii/media/posts/8/flintLockPistol_0005.png" medium="image" />
+
+        <updated>2023-06-17T21:10:42+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/flintLockPistol_0005.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0001.png" data-size="1848x919"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0001-thumbnail.png" alt="" width="768" height="382"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0002.png" data-size="1848x919"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0002-thumbnail.png" alt="" width="768" height="382"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0003.png" data-size="1848x919"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0003-thumbnail.png" alt="" width="768" height="382"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0004.png" data-size="1848x919"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0004-thumbnail.png" alt="" width="768" height="382"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0005.png" data-size="1848x919"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0005-thumbnail.png" alt="" width="768" height="382"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0006.png" data-size="1751x868"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0006-thumbnail.png" alt="" width="768" height="381"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0007.png" data-size="1772x893"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0007-thumbnail.png" alt="" width="768" height="387"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0008.png" data-size="1796x841"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0008-thumbnail.png" alt="" width="768" height="360"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0009.png" data-size="1782x896"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0009-thumbnail.png" alt="" width="768" height="386"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0010.png" data-size="1773x896"><img loading="lazy" src="https://lukanoski.github.io/PortfolioPublii/media/posts/8/gallery/flintLockPistol_0010-thumbnail.png" alt="" width="768" height="388"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
