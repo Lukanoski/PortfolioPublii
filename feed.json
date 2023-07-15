@@ -56,14 +56,14 @@
             "url": "https://lukanoski.xyz/reels.html",
             "title": "Reels",
             "content_html": "<div class=\"post__iframe\"><iframe width=\"1920\" height=\"1080\" src=\"https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen=\"allowfullscreen\" title=\"Lukanoski Ognen showreel 2020\"></iframe></div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1920\" height=\"1080\" src=\"https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen=\"allowfullscreen\" title=\"Lukanoski Ognen showreel 2020\"></iframe></div>",
-            "image": "https://lukanoski.xyz/media/posts/12/pngkit_movie-slate-png_3756478.png",
+            "image": "https://lukanoski.xyz/media/posts/12/NicePng_film-slate-png_976420-3.png",
             "author": {
                 "name": "Ognen Lukanoski"
             },
             "tags": [
             ],
             "date_published": "2023-07-14T13:54:32+02:00",
-            "date_modified": "2023-07-15T15:41:52+02:00"
+            "date_modified": "2023-07-15T15:46:49+02:00"
         },
         {
             "id": "https://lukanoski.xyz/other-3.html",
@@ -77,7 +77,7 @@
             "tags": [
             ],
             "date_published": "2023-06-17T21:14:05+02:00",
-            "date_modified": "2023-07-15T15:41:41+02:00"
+            "date_modified": "2023-07-15T15:45:30+02:00"
         },
         {
             "id": "https://lukanoski.xyz/character-3.html",
