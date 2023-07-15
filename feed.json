@@ -27,15 +27,15 @@
             "id": "https://lukanoski.xyz/contact.html",
             "url": "https://lukanoski.xyz/contact.html",
             "title": "Contact",
-            "summary": "email: lukanoskiognen@gmail.com linkedin: www.linkedin.com/in/ognen-lukanoski-a7299625",
-            "content_html": "<p>email: <a href=\"mailto:lukanoskiognen@gmail.com\">lukanoskiognen@gmail.com</a></p>\n<p>linkedin: <a href=\"http://www.linkedin.com/in/ognen-lukanoski-a7299625\">www.linkedin.com/in/ognen-lukanoski-a7299625</a></p>\n<p> </p>",
+            "summary": "email: lukanoskiognen@gmail.com linkedin: www.linkedin.com/in/ognen-lukanoski",
+            "content_html": "<p>email: <a href=\"mailto:lukanoskiognen@gmail.com\">lukanoskiognen@gmail.com</a></p>\n<p>linkedin: <a href=\"www.linkedin.com/in/ognen-lukanoski\">www.linkedin.com/in/ognen-lukanoski</a></p>\n<p> </p>",
             "author": {
                 "name": "Ognen Lukanoski"
             },
             "tags": [
             ],
             "date_published": "2023-07-14T17:02:26+02:00",
-            "date_modified": "2023-07-14T17:11:32+02:00"
+            "date_modified": "2023-07-15T16:31:50+02:00"
         },
         {
             "id": "https://lukanoski.xyz/the-scilence.html",
