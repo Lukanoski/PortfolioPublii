@@ -28,14 +28,14 @@
             "url": "https://lukanoski.xyz/contact.html",
             "title": "Contact",
             "summary": "email: lukanoskiognen@gmail.com linkedin: www.linkedin.com/in/ognen-lukanoski",
-            "content_html": "<p>email: <a href=\"mailto:lukanoskiognen@gmail.com\">lukanoskiognen@gmail.com</a></p>\n<p>linkedin: <a href=\"www.linkedin.com/in/ognen-lukanoski\">www.linkedin.com/in/ognen-lukanoski</a></p>\n<p> </p>",
+            "content_html": "<p>email: <a href=\"mailto:lukanoskiognen@gmail.com\">lukanoskiognen@gmail.com</a></p>\n<p>linkedin: <a href=\"https://www.linkedin.com/in/ognen-lukanoski/\" title=\"file:///C:/Users/lukan/Documents/Publii/sites/ognen-lukanoski/preview/www.linkedin.com/in/ognen-lukanoski\" target=\"_blank\" rel=\"noopener noreferrer\">www.linkedin.com/in/ognen-lukanoski</a><a href=\"www.linkedin.com/in/ognen-lukanoski\"></a><a href=\"www.linkedin.com/in/ognen-lukanoski\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p>",
             "author": {
                 "name": "Ognen Lukanoski"
             },
             "tags": [
             ],
             "date_published": "2023-07-14T17:02:26+02:00",
-            "date_modified": "2023-07-15T16:31:50+02:00"
+            "date_modified": "2023-07-15T16:42:39+02:00"
         },
         {
             "id": "https://lukanoski.xyz/the-scilence.html",

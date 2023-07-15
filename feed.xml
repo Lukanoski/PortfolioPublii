@@ -3,7 +3,7 @@
     <title>Ognen Lukanoski</title>
     <link href="https://lukanoski.xyz/feed.xml" rel="self" />
     <link href="https://lukanoski.xyz" />
-    <updated>2023-07-15T16:31:50+02:00</updated>
+    <updated>2023-07-15T16:42:39+02:00</updated>
     <author>
         <name>Ognen Lukanoski</name>
     </author>
@@ -94,7 +94,7 @@
         <link href="https://lukanoski.xyz/contact.html"/>
         <id>https://lukanoski.xyz/contact.html</id>
 
-        <updated>2023-07-15T16:31:50+02:00</updated>
+        <updated>2023-07-15T16:42:39+02:00</updated>
             <summary>
                 <![CDATA[
                     email: lukanoskiognen@gmail.com linkedin: www.linkedin.com/in/ognen-lukanoski
@@ -103,8 +103,7 @@
         <content type="html">
             <![CDATA[
                 <p>email: <a href="mailto:lukanoskiognen@gmail.com">lukanoskiognen@gmail.com</a></p>
-<p>linkedin: <a href="www.linkedin.com/in/ognen-lukanoski">www.linkedin.com/in/ognen-lukanoski</a></p>
-<p> </p>
+<p>linkedin: <a href="https://www.linkedin.com/in/ognen-lukanoski/" title="file:///C:/Users/lukan/Documents/Publii/sites/ognen-lukanoski/preview/www.linkedin.com/in/ognen-lukanoski" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/ognen-lukanoski</a><a href="www.linkedin.com/in/ognen-lukanoski"></a><a href="www.linkedin.com/in/ognen-lukanoski" target="_blank" rel="noopener noreferrer"></a></p>
             ]]>
         </content>
     </entry>
