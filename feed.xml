@@ -3,12 +3,51 @@
     <title>Ognen Lukanoski</title>
     <link href="https://lukanoski.xyz/feed.xml" rel="self" />
     <link href="https://lukanoski.xyz" />
-    <updated>2023-07-15T17:30:02+02:00</updated>
+    <updated>2023-07-16T12:17:37+02:00</updated>
     <author>
         <name>Ognen Lukanoski</name>
     </author>
     <id>https://lukanoski.xyz</id>
 
+    <entry>
+        <title>Toon</title>
+        <author>
+            <name>Ognen Lukanoski</name>
+        </author>
+        <link href="https://lukanoski.xyz/nipon.html"/>
+        <id>https://lukanoski.xyz/nipon.html</id>
+        <media:content url="https://lukanoski.xyz/media/posts/21/nagase_0809_1.png" medium="image" />
+
+        <updated>2023-07-16T12:17:05+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lukanoski.xyz/media/posts/21/nagase_0809_1.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_1.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_1-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_2.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_2-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_3.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_3-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_4.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_4-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_5.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/Jinguji_0811_5-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_1.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_1-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_2.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_2-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_3.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_3-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_4.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_4-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_5.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/kishi_0810_5-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_1.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_1-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_2.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_2-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_3.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_3-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_4.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_4-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_5.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/nagase_0809_5-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_1.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_1-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_2.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_2-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_3.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_3-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_4.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_4-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_5.png" data-size="1200x1200"><img loading="lazy" src="https://lukanoski.xyz/media/posts/21/gallery/takahashi_0809_5-thumbnail.png" alt="" width="768" height="768"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Marine Animals</title>
         <author>
@@ -165,7 +204,7 @@
         <id>https://lukanoski.xyz/reels.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/12/NicePng_film-slate-png_976420-3.png" medium="image" />
 
-        <updated>2023-07-15T16:03:48+02:00</updated>
+        <updated>2023-07-16T12:17:37+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -183,7 +222,7 @@
         <id>https://lukanoski.xyz/other-3.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/11/otherFeature.png" medium="image" />
 
-        <updated>2023-07-15T16:03:44+02:00</updated>
+        <updated>2023-07-16T12:17:32+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
