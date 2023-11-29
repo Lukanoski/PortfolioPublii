@@ -3,7 +3,7 @@
     <title>Ognen Lukanoski</title>
     <link href="https://lukanoski.xyz/feed.xml" rel="self" />
     <link href="https://lukanoski.xyz" />
-    <updated>2023-10-02T16:52:29+02:00</updated>
+    <updated>2023-11-29T22:09:28+01:00</updated>
     <author>
         <name>Ognen Lukanoski</name>
     </author>
@@ -371,12 +371,12 @@
         <id>https://lukanoski.xyz/reels.html</id>
         <media:content url="https://lukanoski.xyz/media/posts/12/NicePng_film-slate-png_976420-3.png" medium="image" />
 
-        <updated>2023-10-02T16:51:53+02:00</updated>
+        <updated>2023-11-29T22:09:28+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://lukanoski.xyz/media/posts/12/NicePng_film-slate-png_976420-3.png" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div>
+                <div class="post__iframe"><iframe width="1920" height="1080" src="https://player.vimeo.com/video/459734490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="Lukanoski Ognen showreel 2020"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="1885" height="1660" style="width: 1885px; height: 1660px;" src="https://player.vimeo.com/video/463211724?h=11988e6bbb" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
